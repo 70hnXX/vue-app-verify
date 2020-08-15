@@ -3,6 +3,9 @@
 
 ![example](https://s1.ax1x.com/2020/08/15/dkmXbd.png)
 
+## github
+有意见和建议,欢迎到我的gihub项目[vue-app-verify](https://github.com/70hnXX/vue-app-verify.git)提issue
+
 ## Installation - 安装
 `yarn add vue-app-verify`
 或者,如果你使用npm的话
