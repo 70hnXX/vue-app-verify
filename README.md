@@ -1,6 +1,8 @@
 # vue-app-verify
 仿app输入验证码效果的vue组件
 
+![example](https://s1.ax1x.com/2020/08/15/dkmXbd.png)
+
 ## Installation - 安装
 `yarn add vue-app-verify`
 或者,如果你使用npm的话
