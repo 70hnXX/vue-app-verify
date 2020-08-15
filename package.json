@@ -1,0 +1,41 @@
+{
+    "name": "vue-app-verify",
+    "version": "1.0.2",
+    "description": "仿app验证码输入的vue组件",
+    "main": "dist/vueAppVerify.js",
+    "scripts": {
+        "build": "webpack --mode production",
+        "dev": "webpack-dev-server --open --mode development"
+    },
+    "keywords": [
+        "vue",
+        "app",
+        "verify",
+        "验证码"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/70hnXX/vue-app-verify.git"
+    },
+    "author": "70hnXX",
+    "license": "MIT",
+    "devDependencies": {
+        "babel-core": "^6.26.3",
+        "babel-loader": "^7.1.5",
+        "babel-preset-env": "^1.7.0",
+        "css-loader": "^1.0.0",
+        "file-loader": "^2.0.0",
+        "style-loader": "^0.23.1",
+        "url-loader": "^1.1.2",
+        "node-sass": "^4.12.0",
+        "sass-loader": "^7.2.0",
+        "vue": "^2.5.2",
+        "vue-hot-reload-api": "^2.2.4",
+        "vue-html-loader": "^1.2.4",
+        "vue-loader": "^15.4.2",
+        "vue-style-loader": "^3.0.3",
+        "vue-template-compiler": "^2.5.9",
+        "webpack": "^4.19.0",
+        "webpack-cli": "^3.1.0"
+    }
+}
