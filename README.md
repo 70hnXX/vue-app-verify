@@ -7,7 +7,7 @@
 有意见和建议,欢迎到我的gihub项目[vue-app-verify](https://github.com/70hnXX/vue-app-verify.git)提issue
 
 ## 开发计划
-- [] 可选的前端验证功能.配置一个验证码,前端校验验证码是否正确
+- [ ] 可选的前端验证功能.配置一个验证码,前端校验验证码是否正确
 
 
 ## Installation - 安装
