@@ -18,12 +18,12 @@
 ## Usage - 用法
 ### 全局引入:
 1.main.js:
-```
+``` js
 import vueAppVerify from 'vue-app-verify'
 Vue.use(vueAppVerify)
 ```
 2.组件中:
-```
+``` vue
 <template>
   <div id="app">
     <vueAppVerify @completed="completed"/>
@@ -32,13 +32,14 @@ Vue.use(vueAppVerify)
 ```
 ### 按需引入
 组件中:
-```
+``` vue
 <template>
   <div id="app">
     <vueAppVerify @completed="completed"/>
   </div>
 </template>
 
+<script>
 import vueAppVerify from 'vue-app-verify'
 export default {
   ...
@@ -47,6 +48,7 @@ export default {
   },
   ...
 }
+</script>
 ```
 
 ## Props - 属性

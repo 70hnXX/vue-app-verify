@@ -1,6 +1,6 @@
 {
     "name": "vue-app-verify",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "仿app验证码输入的vue组件",
     "main": "dist/vueAppVerify.js",
     "scripts": {
