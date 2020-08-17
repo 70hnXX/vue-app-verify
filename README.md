@@ -1,7 +1,7 @@
 # vue-app-verify
 仿app输入验证码效果的vue组件
 
-![example](https://s1.ax1x.com/2020/08/15/dkmXbd.png)
+![example](./imgs/example.png)
 
 ## github
 有意见和建议,欢迎到我的gihub项目[vue-app-verify](https://github.com/70hnXX/vue-app-verify.git)提issue
